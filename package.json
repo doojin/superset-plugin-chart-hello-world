@@ -24,7 +24,8 @@
   "author": "My Name",
   "license": "Apache-2.0",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {},
   "peerDependencies": {
