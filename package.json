@@ -1,6 +1,6 @@
 {
   "name": "@doojin/superset-plugin-chart-hello-world",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Superset Plugin Chart Hello World",
   "sideEffects": false,
   "main": "lib/index.js",
